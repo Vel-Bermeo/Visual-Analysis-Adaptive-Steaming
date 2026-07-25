@@ -1,0 +1,6 @@
+streamlit>=1.39
+streamlit-option-menu
+pandas
+numpy
+plotly
+pyarrow
