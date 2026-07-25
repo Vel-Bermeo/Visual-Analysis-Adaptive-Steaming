@@ -10,6 +10,12 @@ El proyecto también incluye un notebook con el proceso de preparación y transf
 
 ---
 
+# Obtención de datos de Standford Puffer
+
+Los datos pueden ser obtenidos desde el siguiente URL:
+
+https://puffer.stanford.edu/data-description/
+
 # Estructura del proyecto
 
 ```
